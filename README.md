@@ -8,7 +8,6 @@ This Python script implements a dark channel-based algorithm to remove haze from
 ## Features
 - **Dark Channel Algorithm:** Utilizes the dark channel prior for haze removal in images, as described in He, Sun, and Tang's 2010 paper.
 - **Image Enhancement:** Improves the visibility of images by reducing the effect of atmospheric haze.
-- **User-Friendly Interface:** Simple command-line interface for easy operation.
 
 ## Paper Reference
 He, K., Sun, J., & Tang, X. (2010). Single Image Haze Removal Using Dark Channel Prior. IEEE Transactions on Pattern Analysis and Machine Intelligence, 33(12), 2341-2353.
