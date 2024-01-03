@@ -1,3 +1,5 @@
+[中文版](README.zh.md)
+
 # Dark Channel Dehazing
 
 ## Overview
